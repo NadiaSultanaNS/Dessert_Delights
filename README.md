@@ -6,8 +6,8 @@ How to cook them and what type of ingredients needed for the recipe.
 Also, check the nutrition
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Built With
+[Link Edamam API](https://www.edamam.com/)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
