@@ -42,14 +42,6 @@ ul{
   display: flex;
 }
 
-.second-section{
-  display: flex;
-}
-
-.second-section, img{
-  
-}
-
 .card{
   width: 285px;
   margin: 10px;
@@ -57,3 +49,20 @@ ul{
 ol{
   list-style: none;
 }
+.welcome-text {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+
+}
+
+.welcome-text:hover {
+  background: #fff;
+  color: #333;
+}
+
+
