@@ -1,10 +1,10 @@
 # Website Name: Dessert Delights
 
-## Available Scripts
+## Features
+Get Idea of so may desserts
+How to cook them and what type of ingredients needed for the recipe.
+Also, check the nutrition
 
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
