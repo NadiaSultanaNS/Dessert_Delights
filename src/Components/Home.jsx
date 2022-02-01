@@ -6,7 +6,7 @@ function Home() {
              <div class="wrapper">
 
         <div class="welcome-text">
-            <marquee className><h1>Welcome To Desert Delights</h1></marquee>
+            <marquee className><h1>Welcome To Dessert Delights</h1></marquee>
         </div>
     
         </div >
