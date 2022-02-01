@@ -1,13 +1,17 @@
 # Website Name: Dessert Delights
 
 ## Features
-Get Idea of so may desserts
-How to cook them and what type of ingredients needed for the recipe.
-Also, check the nutrition
+"*" Get Idea of so may desserts
+"*" How to cook them and what type of ingredients needed for the recipe.
+"*" Also, check the nutrition
 
 
-### Built With
-[Link Edamam API](https://www.edamam.com/)
+### Future Delvelopment Goals
+
+
+[Edamam API](https://www.edamam.com/)
+[The MealDB API](https://www.themealdb.com/)
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
