@@ -6,7 +6,7 @@ const baseUrl = 'https://www.themealdb.com/api/json/v1/1/filter.php?c=Dessert';
 function DessertList() {
     const [itemList, setList] = useState(null); //declaring useState
 
-    React.useEffect(() => { //Calling the api using async axios request function; also using useEffect.
+    React.useEffect(() => { //Calling the one api using async axios request function; also using useEffect.
         axios.get(baseUrl).then((response) => {
             const dessertCards = (response.data.meals.map((meal) => {
                 //Creating a dessert card for each meal using the map function.

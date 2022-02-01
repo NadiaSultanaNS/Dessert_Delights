@@ -17,7 +17,7 @@ function RecipeDetails() {
     const [isRecipeDetailsVisible, setRecipeDetailsVisible] = useState(true);
     const [HeaderComp, setHeaderComp] = useState(null);
 
-
+    //Calling the second api
     useEffect(() => {
 
         axios.get(baseUrl).then((response) => {
