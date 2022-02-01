@@ -43,9 +43,9 @@ function App() {
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <div className="navbar-nav">
                     <ul>
-                      <a className="nav-link active" aria-current="page" href="/home">Home</a>
-                      <a className="nav-link active" href="/dessertlist">Dessert List</a>
-                      <a className="nav-link active" href="/favorites">Favorites</a>
+                      <Link className="nav-link active" aria-current="page" to="/home">Home</Link>
+                      <Link className="nav-link active" to="/dessertlist">Dessert List</Link>
+                      <Link className="nav-link active" to="/favorites">Favorites</Link>
                     </ul>
                   </div>
                 </div>

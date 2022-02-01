@@ -39,10 +39,9 @@ function Favourites() {
     }, [])
     return (
         <div>
-            {(list === null || list.length === 0) ? (<p>You Have NO Favorites Added</p>) : list}
-            <ul>
+            {(list === null || list.length === 0) ? (<p>You Have NO Favorites Added</p>) : (<ul>
                 {list}
-            </ul>
+            </ul>)}
         </div>
     )
 }
