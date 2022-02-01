@@ -1,7 +1,7 @@
 # Website Name: Dessert Delights
 
 ## Features
-"*" Get Idea of so may desserts
+"*" Get Idea of so many desserts
 "*" How to cook them and what type of ingredients needed for the recipe.
 "*" Also, check the nutrition
 
